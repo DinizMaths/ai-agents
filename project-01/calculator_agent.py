@@ -129,6 +129,3 @@ result = list(
 )
 
 print(result[-1]["messages"][0].content)
-
-#How to export Environment Variables in ubuntu
-#export OPEN
